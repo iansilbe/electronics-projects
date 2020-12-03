@@ -4,6 +4,6 @@
 
 ## Rainbow LED
 
-<img src="images/ArduinoWithRGBLED_bb.jpg">
+<img src="images/ArduinoWithRGBLED_bb.jpg" width="50%">
 
 ## Traffic Light
